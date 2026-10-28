@@ -1,0 +1,9 @@
+{
+  "name": "madhuri-workspace",
+  "version": "1.0.0",
+  "description": "Madhuri N.V. — Technical Program Manager portfolio",
+  "private": true,
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
